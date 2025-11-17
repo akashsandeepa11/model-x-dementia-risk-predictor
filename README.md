@@ -1,1 +1,1 @@
-# model-x-dementia-risk-predictor
+NACCI Dataset needs to be in this root folder
